@@ -8,8 +8,8 @@ services:
       - PGID=1000
       - TZ=Europe/Madrid
       - TRANSMISSION_WEB_HOME= #optional
-      - USER= User
-      - PASS= p4ssw0rd
+      - USER=User
+      - PASS=p4ssw0rd
       - WHITELIST= #optional
       - PEERPORT= #optional
       - HOST_WHITELIST= #optional
